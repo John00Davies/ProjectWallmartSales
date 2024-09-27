@@ -74,10 +74,15 @@ Once the data was cleaned in Python, it was exported to Excel for in-depth analy
 - **Gross Income by Product Line**
 - **Sales by Branch**
 
+![0. KPIs.jpeg](https://github.com/John00Davies/ProjectWallmartSales/blob/main/Images/KPIs.jpeg)
+
+
 ## Dashboard Creation
 A dynamic and interactive dashboard was created in Excel to visualize the findings effectively. The dashboard features:
 - **Line Charts**: Sales trends over time.
 - **Bar Charts**: Regional sales comparisons.
+
+ ![1. Dashboard.jpeg](https://github.com/John00Davies/ProjectWallmartSales/blob/main/Images/Dashboard%20Image.jpeg)
 
 ### Interactive Features:
 - **Filters**: Enable users to explore sales data by different regions, product categories, and time frames.
